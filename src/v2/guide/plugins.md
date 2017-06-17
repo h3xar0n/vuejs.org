@@ -78,4 +78,4 @@ var VueRouter = require('vue-router')
 Vue.use(VueRouter)
 ```
 
-Checkout [awesome-vue](https://github.com/vuejs/awesome-vue#components--libraries) for a huge collection of community-contributed plugins and libraries.
+Check out [awesome-vue](https://github.com/vuejs/awesome-vue#components--libraries) for a huge collection of community-contributed plugins and libraries.
